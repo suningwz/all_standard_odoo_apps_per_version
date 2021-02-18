@@ -1,5 +1,6 @@
 {
     "10.0": [
+        "account",
         "account_accountant",
         "account_analytic_default",
         "account_asset",
